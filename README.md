@@ -1,6 +1,5 @@
 # Ciao 👋
-### Chi Sono...
-
+Chi Sono...
 Ciao, sono Salvatore.
 
 Il mondo della programmazione mi ha sempre incuriosito, negli ultimi tempi ho avuto modo di iniziare a studiare partendo dalle basi e ho sviluppato un senso di appartenenza a questo campo, con una voglia sempre crescente di imparare nuove tecnologie ed espandere il mio bagaglio culturale.
