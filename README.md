@@ -26,5 +26,5 @@ Qui potrai trovare tutto ciò su cui mi sto formando ed i miei primi progetti!
 #### 💡 I miei progetti personali sono...
 [Una piccola web app di note.](https://github.com/SalvatoreVella/Progetti-Personali.git) <br/>
 [Un Quiz.](https://github.com/SalvatoreVella/Progetti-Personali.git) <br/>
-[Una Tombola natalizia per mobile.](https://github.com/SalvatoreVella/Tombola)
-[Un web app in React di ricerca per film e serie tv.](https://github.com/SalvatoreVella/Tombola)
+[Una Tombola natalizia per mobile.](https://github.com/SalvatoreVella/Tombola) <br/>
+[Una web app in React di ricerca per film e serie tv.](https://github.com/SalvatoreVella/Tombola)
