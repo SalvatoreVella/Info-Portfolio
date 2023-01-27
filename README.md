@@ -27,4 +27,4 @@ Qui potrai trovare tutto ciò su cui mi sto formando ed i miei primi progetti!
 [Una piccola web app di note.](https://github.com/SalvatoreVella/Progetti-Personali.git) <br/>
 [Un Quiz.](https://github.com/SalvatoreVella/Progetti-Personali.git) <br/>
 [Una Tombola natalizia per mobile.](https://github.com/SalvatoreVella/Tombola) <br/>
-[Una web app in React di ricerca per film e serie tv.](https://github.com/SalvatoreVella/Tombola)
+[Una web app in React di ricerca per film e serie tv.](https://github.com/SalvatoreVella/Movie-Search)
